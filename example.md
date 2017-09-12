@@ -4,12 +4,12 @@
 
 ## Mon
 
-- Q3
+#### Q3
 
     1. Vocab TermInfo
     1. FHIR-I  trackers and props
 
-- Q4
+#### Q4
 
     1. PHER - PSS for Case Reporting
     1. Vocab TermInfo
@@ -113,8 +113,6 @@ vvv
     1. OO Catalog/LIVD FHIR Project
     1. PC/Vocab Joint Negation
 
->>>
-
 ## Wed
 
 vvv
@@ -127,8 +125,6 @@ vvv
 vvv
 
 - Q1 Jt with PC
-
-
 
    1. OO Trackers - ProcRequest
 
