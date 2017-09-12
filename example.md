@@ -37,7 +37,7 @@ vvv
 >>>
 
 #### Scope:
-- FMG identified gap in Observation use cases for Patient generated and reported data.  Held a connectathon to invite use cases. participation was light and no actual use cases tested out but OMHealth present and shared some of their schema and value sets proposed to add new category value(s) to `.category` valuesset and to datatype `timing` code values.
+- FMG identified gap in Observation use cases for Patient generated and reported data.  Held a connectathon to invite use cases. participation was light and no actual use cases tested out but OMHealth present and shared some of their schema and value sets proposed to add new category value(s) to `.category` valueset and to datatype `timing` code values.
 
 >>>
 
@@ -45,7 +45,7 @@ vvv
 - [GF#13421](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13421&start=0) Review boundaries between Media and valueAttachment
   - coordinated approach with Imaging WG
   - Next step is to bring to FMG 
-    - key question is whether needs to be a resource vs datatype
+     - key question is whether needs to be a resource vs datatype
     
 vvv
 
