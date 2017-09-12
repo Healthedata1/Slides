@@ -1,34 +1,25 @@
-
-## Wed
-
-vvv
-
-- Q0
-
-1. Volunteer award
-1. US Realm SC
+## Thur
 
 vvv
 
-- Q1 Jt with PC
+- Q1
 
-   1. OO Trackers - ProcRequest
+    1. Devices re LOINC
 
 vvv
 
 - Q2
 
-     1. PC/PA joint re PractRole
+    1. Jt with FHIR
 
 vvv
 
-- Q3 Jt with PC/OO/FHIR
+- Q3
 
-     1. Transfusions
+    1. Fhir trackers/ Jt with PC
 
 vvv
 
 - Q4
 
-    1. FHIR Trackers
-
+    1. jt with CIMI
