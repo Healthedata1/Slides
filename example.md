@@ -109,6 +109,8 @@ vvv
     1. OO Catalog/LIVD FHIR Project
     1. PC/Vocab Joint Negation
 
+>>>
+
 ## Wed
 
 vvv
@@ -141,6 +143,8 @@ vvv
 - Q4
 
     1. FHIR Trackers
+
+>>>
 
 ## Thur
 
