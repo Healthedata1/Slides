@@ -42,7 +42,7 @@ vvv
 >>>
 
 #### Substantive Trackers:
-- [GF#13421](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13421&start=0) Review boundaries between Media and valueAttachment
+- [GF#13421](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13421&start=0) Review boundaries between Media and valueAttachment  and related [GF#13347](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13347&start=0)	Media should be allowed as an alternative to Observations
   - coordinated approach with Imaging WG
   - Next step is to bring to FMG 
      - key question is whether needs to be a resource vs datatype
@@ -57,7 +57,16 @@ vvv
 vvv
 
 - Other Trackers:
+  - [GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	Add Core extension to identify Personal HealthCare Device
+     - Rob and I created a guidance document for `.code` codes and `valueCodeableConcept` codes
+     - discussed at last Conf Call
+     - TermInfo topic
+
+vvv
+
   - [GF#13144](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13144&start=0)	Add Core extension to identify Personal HealthCare Device
+  
+- Several trackers related to Observation extensions and Vitals Profile
 
 >>>
 
