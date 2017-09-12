@@ -42,16 +42,16 @@ vvv
 >>>
 
 #### Substantive Trackers:
-- [GF#13421](#) Review boundaries between Media and valueAttachment
+- [GF#13421](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13421&start=0) Review boundaries between Media and valueAttachment
   - coordinated approach with Imaging WG
   - Next step is to bring to FMG 
     - key question is whether needs to be a resource vs datatype
-- [GF#10118](#)	review .related.type codes
+- [GF#10118](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=10118&start=0)	review .related.type codes
   - key question "is juice worth the squeeze"
   - posted on Zulip for Implementer feedback 2x - no response
   - Option to change for ballot for comment - that would get the attention of implementers
 - Other Trackers:
-  - [GF#13144](#)	Add Core extension to identify Personal HealthCare Device
+  - [GF#13144](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13144&start=0)	Add Core extension to identify Personal HealthCare Device
 
 >>>
 
