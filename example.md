@@ -46,10 +46,16 @@ vvv
   - coordinated approach with Imaging WG
   - Next step is to bring to FMG 
     - key question is whether needs to be a resource vs datatype
+    
+vvv
+
 - [GF#10118](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=10118&start=0)	review .related.type codes
   - key question "is juice worth the squeeze"
   - posted on Zulip for Implementer feedback 2x - no response
   - Option to change for ballot for comment - that would get the attention of implementers
+  
+vvv
+
 - Other Trackers:
   - [GF#13144](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13144&start=0)	Add Core extension to identify Personal HealthCare Device
 
