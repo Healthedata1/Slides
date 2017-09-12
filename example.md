@@ -31,21 +31,27 @@ vvv
 
 ### Where we are with Observation
 
-       - FMM =
-       - Next step is Normative
+- FMM = **5**
+- Next step is Normative
 
 >>>
 
 #### Scope:
-- FMG identified gap in Observation use cases for Patient generated and reported data.  Held a connectathon to invite use cases. participation was light and no actual use cases tested out but OMHealth present and shared some of their schema and value sets proposed to add category values to Obs.category and datatype timing code values.
+- FMG identified gap in Observation use cases for Patient generated and reported data.  Held a connectathon to invite use cases. participation was light and no actual use cases tested out but OMHealth present and shared some of their schema and value sets proposed to add new category value(s) to `.category` valuesset and to datatype `timing` code values.
 
 >>>
 
 #### Substantive Trackers:
-- (potentially) GF#13421	Review boundaries between Media and valueAttachment
-- GF#10118	review .related.type codes	Medium
+- [GF#13421](#) Review boundaries between Media and valueAttachment
+  - coordinated approach with Imaging WG
+  - Next step is to bring to FMG 
+    - key question is whether needs to be a resource vs datatype
+- [GF#10118](#)	review .related.type codes
+  - key question "is juice worth the squeeze"
+  - posted on Zulip for Implementer feedback 2x - no response
+  - Option to change for ballot for comment - that would get the attention of implementers
 - Other Trackers:
-         - 13144	Add Core extension to identify Personal HealthCare Device
+  - [GF#13144](#)	Add Core extension to identify Personal HealthCare Device
 
 >>>
 
