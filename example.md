@@ -53,7 +53,6 @@ Coordinate slides with Hans
 
 >>>
 
-
 - [GF#10118](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=10118&start=0)	review .related.type codes
   - key question "is juice worth the squeeze"
   - posted on Zulip for Implementer feedback 2x - no response
@@ -65,7 +64,6 @@ GF#10118:
 - Next steps: Eric contacted GG as product director ask this question to community
 
 >>>
-
 
 Other Trackers:
   - [GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	Add Core extension to identify Personal HealthCare Device
@@ -86,9 +84,7 @@ Several trackers related to Observation extensions and Vitals Profile:
 
 - QA - Ongoing and up to date
 
-
 vvv
-
 
 - Q2
      1. Pharm+ FHIR-I
@@ -145,8 +141,6 @@ vvv
 - Q4
 
     1. FHIR Trackers
-
->>>
 
 ## Thur
 
