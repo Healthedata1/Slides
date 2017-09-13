@@ -7,21 +7,21 @@ vvv
     1. Where we are with Observation
     1. OO Trackers
 
->>>
+vvv
 
 ### Where we are with Observation
 
 - FMM = **5**
 - Next step is Normative
 
->>>
+vvv
 
 #### Scope:
 - FMG identified gap in Observation use cases for Patient generated and reported data.  Held a connectathon to invite use cases. participation was light and no actual use cases tested out but OMHealth present and shared some of their schema and value sets proposed to add new category value(s) to `.category` valueset and to datatype `timing` code values.
 
 Eric to add trackers...
 
->>>
+vvv
 
 #### Substantive Trackers:
 - [GF#13421](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13421&start=0) Review boundaries between Media and valueAttachment  and related [GF#13347](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13347&start=0)	Media should be allowed as an alternative to Observations
@@ -31,7 +31,7 @@ Eric to add trackers...
 
 Coordinate slides with Hans
 
->>>
+vvv
 
 - [GF#10118](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=10118&start=0)	review .related.type codes
   - key question "is juice worth the squeeze"
@@ -43,7 +43,7 @@ GF#10118:
 - OO thinks not worth it
 - Next steps: Eric contacted GG as product director ask this question to community
 
->>>
+vvv
 
 Other Trackers:
   - [GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	Add Core extension to identify Personal HealthCare Device
@@ -51,7 +51,7 @@ Other Trackers:
      - discussed at last Conf Call
      - next steps:  Rob to present as TermInfo topic
 
->>>
+vvv
 
 Several trackers related to Observation extensions and Vitals Profile:
 
@@ -60,7 +60,7 @@ Several trackers related to Observation extensions and Vitals Profile:
 
 - Confirmed that extensions and operations on own track
 
->>>
+vvv
 
 - QA - Ongoing and up to date
 
