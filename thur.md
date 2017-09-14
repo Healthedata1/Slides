@@ -31,7 +31,8 @@ vvv
 2. [GF#10118](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=10118&start=0)	review .related.type codes
       - OO thinks not worth changing it (implementers using .related and no trackers complaining about it)
       - Next steps: Eric contacted GG as product director ask this question to community
-      
+
+
 vvv
         
 3. [GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	 Observation example for findings/signs/symptoms
@@ -40,6 +41,7 @@ vvv
    - Rob to review in TermInfo 
    - Discuss if need new databsentvalue code for the code only pattern - something like 'clinical-finding'
 if that's clear enough, which it may not be, we should probably try to avoid using the word "assertion"
+
 
 vvv
 
