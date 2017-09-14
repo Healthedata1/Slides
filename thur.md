@@ -32,11 +32,11 @@ vvv
       - OO thinks not worth changing it (implementers using .related and no trackers complaining about it)
       - Next steps: Eric contacted GG as product director ask this question to community
         
-3.[GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	 Observation example for findings/signs/symptoms
+3. [GF#13318](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13318&start=0)	 Observation example for findings/signs/symptoms
 
-      - Review draft document
-      - Rob to review in TermInfo 
-      - Discuss if need new databsentvalue code for the code only pattern - something like 'clinical-finding'
+   - Review draft document
+   - Rob to review in TermInfo 
+   - Discuss if need new databsentvalue code for the code only pattern - something like 'clinical-finding'
 if that's clear enough, which it may not be, we should probably try to avoid using the word "assertion"
 
 3. New tracker [GF#13862](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13862&start=0) add category value of "activity" to value set
