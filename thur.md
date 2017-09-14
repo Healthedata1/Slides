@@ -41,8 +41,6 @@ if that's clear enough, which it may not be, we should probably try to avoid usi
 
 3. New tracker [GF#13862](https://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemEdit&tracker_item_id=13862&start=0) add category value of "activity" to value set
 
-vvv
-
 ### New Resource/Profiles Proposals:
 
 - CatalogEntry
